@@ -1,12 +1,39 @@
-# React + Vite
+# 🏍️ Motoreira
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao projeto **Motoreira**, um e-commerce moderno focado em produtos para motociclistas! Aqui você encontra capacetes, pneus, acessórios e muito mais, com uma experiência visual envolvente e responsiva.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js ⚛️
+- Vite ⚡
+- CSS3 com responsividade 📱
+- Material UI Icons
+- Google Fonts (Montserrat)
+- Font Awesome
 
-## Expanding the ESLint configuration
+## 🎯 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🛒 Catálogo com cards animados e carrossel de produtos
+- 🔍 Barra de busca
+- 📱 Totalmente responsivo para todas as telas
+- 🌟 Avaliações com estrelas nos produtos
+- 📧 Newsletter para promoções exclusivas
+- 🧭 Navegação suave entre seções
+- 📦 Layout de loja com filtros, destaques e footer informativo
+
+## 📸 Imagem do Projeto
+
+![Demonstração do Projeto](public/assets/E-commerceMotoreira.gif)
+
+
+```bash
+📁 src/
+├── components/
+│   ├── NavBar.jsx
+│   ├── Footer.jsx
+│   ├── Promocao.jsx
+│   ├── MaisVendidos.jsx
+│   └── Pneus.jsx
+├── pages/
+│   └── Home.jsx
+└── assets/
