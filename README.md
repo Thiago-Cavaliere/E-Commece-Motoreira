@@ -1,9 +1,7 @@
 # CΛVΛLIΞRE #
 
 
-# 🏍️ Motoreira
-
-Bem-vindo ao projeto **Motoreira**, um e-commerce moderno focado em produtos para motociclistas! Aqui você encontra capacetes, pneus, acessórios e muito mais, com uma experiência visual envolvente e responsiva.
+Bem-vindo ao projeto **Motoreira** 🏍️, um e-commerce moderno focado em produtos para motociclistas! Aqui você encontra capacetes, pneus, acessórios e muito mais, com uma experiência visual envolvente e responsiva.
 
 ## 🚀 Tecnologias Utilizadas
 
