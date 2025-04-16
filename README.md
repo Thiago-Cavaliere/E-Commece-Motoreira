@@ -24,7 +24,8 @@ Bem-vindo ao projeto **Motoreira**, um e-commerce moderno focado em produtos par
 ## 📸 Imagem do Projeto
 
 
-![Demonstração do Projeto](./public/assets/E-commerceMotoreira.gif)
+
+![Demonstração do Projeto](./E-commerceMotoreira.gif)
 
 
 
