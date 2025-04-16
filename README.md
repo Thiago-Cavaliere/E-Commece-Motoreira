@@ -30,15 +30,3 @@ Bem-vindo ao projeto **Motoreira** 🏍️, um e-commerce moderno focado em prod
 ![Demonstração do Projeto](./E-commerceMotoreira.gif)
 
 
-
-```bash
-📁 src/
-├── components/
-│   ├── NavBar.jsx
-│   ├── Footer.jsx
-│   ├── Promocao.jsx
-│   ├── MaisVendidos.jsx
-│   └── Pneus.jsx
-├── pages/
-│   └── Home.jsx
-└── assets/
