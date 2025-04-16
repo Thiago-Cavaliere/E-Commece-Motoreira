@@ -1,0 +1,93 @@
+.mais-vendidos-container {
+  padding: 40px;
+  background-color: #ebe7e7;
+  color: #000;
+  text-align: center;
+  height: 60vh;
+}
+
+.mais-vendidos-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #f39c12;
+}
+
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.cards {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 250px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 0 10px;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.card-info h3 {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.card-info p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.arrow {
+  background-color: transparent;
+  border: none;
+  font-size: 4rem;
+  color: #f39c12;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+}
+
+.prev {
+  left: 20px;
+}
+
+.next {
+  right: 20px;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .mais-vendidos-container h2 {
+    font-size: 1.5rem;
+  }
+
+  .card {
+    width: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .mais-vendidos-container h2 {
+    font-size: 1.2rem;
+  }
+
+  .card {
+    width: 180px;
+  }
+}
