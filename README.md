@@ -22,6 +22,9 @@ Bem-vindo ao projeto **Motoreira** 🏍️, um e-commerce moderno focado em prod
 - 🧭 Navegação suave entre seções
 - 📦 Layout de loja com filtros, destaques e footer informativo
 
+Link do projeto:
+https://e-commece-motoreira.vercel.app/
+
 ## 📸 GIF do Projeto
 ![Demonstração do Projeto](./public/assets/E-CommerceMotoreira.gif)
 
