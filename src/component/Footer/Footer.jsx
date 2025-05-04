@@ -72,7 +72,7 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <p>
-          &copy; {new Date().getFullYear()} Motoreira. Todos os direitos
+          &copy; {new Date().getFullYear()} CΛVΛLIΞRE. Todos os direitos
           reservados.
         </p>
       </div>
